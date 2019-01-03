@@ -1,0 +1,208 @@
+
+table {
+  width: 100%;
+}
+
+tr.example-detail-row {
+  height: 0;
+}
+
+tr.example-element-row:not(.example-expanded-row):hover {
+  background: #f5f5f5;
+}
+
+tr.example-element-row:not(.example-expanded-row):active {
+  background: #efefef;
+}
+
+.example-element-row td {
+  border-bottom-width: 0;
+}
+
+.example-element-detail {
+  overflow: hidden;
+  display: flex;
+}
+
+.example-element-diagram {
+  min-width: 200px;
+  border: 2px solid rgb(36, 0, 240);
+  background-color: blue;
+  padding: 8px;
+  font-weight: lighter;
+  margin: 8px 0;
+  height: 200px;
+}
+
+.example-element-symbol {
+  font-weight: bold;
+  font-size: 40px;
+  line-height: normal;
+  width: "10px";
+  height: "10px";
+}
+
+.example-element-description {
+  padding: 16px;
+}
+
+.example-element-description-attribution {
+  opacity: 0.5;
+}
+
+
+
+
+.flextest1 {
+  display: block;
+  padding: 32px;
+  border: 1px solid black;
+  border-radius: 8px;
+  background-color: rgb(165, 165, 202);
+}
+.header {
+  background-color: rgb(143, 143, 226);
+height: 70px;
+}
+.footer {
+  background-color: rgb(143, 143, 226);
+  height: 70px;
+}
+.xdtest {
+  background-color: rgb(36, 219, 4);
+  width: 300px;
+  height: 500px;
+}
+
+.topleft {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.topright {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.bottomleft {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.bottomright {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.box {
+  border-radius: 5px;
+  background-color: bisque;
+  padding: 50px;
+  font-size: 150%;
+  border: 1px solid black;
+}
+
+/*
+.Global styles_Class {
+  align-content: center;
+
+  margin: 0;
+  padding: 0;
+  margin-left: auto;
+margin-right: auto;
+}
+.card1 {
+  background: rgb(161, 44, 44);
+  width: 1920px;
+  height: 2000px;
+  background-color: rgba(255,255,255,1);
+  overflow: hidden;
+  opacity: 1;
+  box-align: center;
+}
+.Web_1920___1_Class {
+  position: absolute;
+  box-sizing: border-box;
+  transform: translateX(-50%) translateY(-50%);
+  left: 50%;
+  top: 50%;
+  outline: 1px solid #A1A1A1;
+  background: #E5E5E5;
+  width: 1920px;
+  height: 1080px;
+  background-color: rgba(255,255,255,1);
+  overflow: hidden;
+  opacity: 1;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Rectangle_1_Class {
+  opacity: 1;
+  fill: rgb(5, 31, 136);
+  stroke: rgb(136, 25, 25);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  stroke-position: inside;
+  stroke-alignment: inside;
+  stroke-location: inside;
+  shape-rendering: crispedges;
+}
+.Rectangle_1 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 0px;
+}
+.rightLayer_1_copy222_Class {
+  opacity: 1;
+  fill: url(#rightLayer_1_copy222_pattern);
+}
+.rightLayer_1_copy222 {
+  position: absolute;
+  overflow: visible;
+  width: 1034.7359619140625px;
+  height: 517.0638427734375px;
+  left: 442.6383056640625px;
+  top: 95.6383056640625px;
+}
+.leftLayer_122222_Class {
+  opacity: 1;
+  fill: url(#leftLayer_122222_pattern);
+}
+.leftLayer_122222 {
+  position: absolute;
+  overflow: visible;
+  width: 1034.7359619140625px;
+  height: 517.0638427734375px;
+  left: 442.6382751464844px;
+  top: 87.6383056640625px;
+}
+.Layer_6_Class {
+  opacity: 1;
+  fill: url(#Layer_6_pattern);
+}
+.Layer_6 {
+  position: absolute;
+  overflow: visible;
+  width: 491px;
+  height: 433px;
+  left: 704.85546875px;
+  top: 129px;
+}
+.Layer_0_Class {
+  opacity: 1;
+  fill: url(#Layer_0_pattern);
+}
+.Layer_0 {
+  position: absolute;
+  overflow: visible;
+  width: 400px;
+  height: 340px;
+  left: 148px;
+  top: 613px;
+}
+ */

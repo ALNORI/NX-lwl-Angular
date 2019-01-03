@@ -16,6 +16,15 @@
     ],
     "baseUrl": ".",
     "paths": {
+      "@workshop/material": [
+        "libs/material/src/index.ts"
+      ],
+      "@workshop/material2": [
+        "libs/material2/src/index.ts"
+      ],
+      "@workshop/prime-ng": [
+        "libs/prime-ng/src/index.ts"
+      ]
     }
   },
   "exclude": [

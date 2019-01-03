@@ -1,0 +1,87 @@
+	.Global styles_Class {
+		margin: 0;
+		padding: 0;
+	}
+	.Web_1920___1_Class {
+		position: absolute;
+		box-sizing: border-box;
+		transform: translateX(-50%) translateY(-50%);
+		left: 50%;
+		top: 50%;
+		outline: 1px solid #A1A1A1;
+		background: #E5E5E5;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		opacity: 1;
+	}
+	.Rectangle_1_Class {
+		opacity: 1;
+		fill: rgba(76,90,145,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		stroke-position: inside;
+		stroke-alignment: inside;
+		stroke-location: inside;
+		shape-rendering: crispedges;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+	}
+	.rightLayer_1_copy222_Class {
+		opacity: 1;
+		fill: url(#rightLayer_1_copy222_pattern);
+	}
+	.rightLayer_1_copy222 {
+		position: absolute;
+		overflow: visible;
+		width: 1034.7359619140625px;
+		height: 517.0638427734375px;
+		left: 442.6383056640625px;
+		top: 95.6383056640625px;
+	}
+	.leftLayer_122222_Class {
+		opacity: 1;
+		fill: url(#leftLayer_122222_pattern);
+	}
+	.leftLayer_122222 {
+		position: absolute;
+		overflow: visible;
+		width: 1034.7359619140625px;
+		height: 517.0638427734375px;
+		left: 442.6382751464844px;
+		top: 87.6383056640625px;
+	}
+	.Layer_6_Class {
+		opacity: 1;
+		fill: url(#Layer_6_pattern);
+	}
+	.Layer_6 {
+		position: absolute;
+		overflow: visible;
+		width: 491px;
+		height: 433px;
+		left: 704.85546875px;
+		top: 129.6383056640625px;
+	}
+	.Layer_0_Class {
+		opacity: 1;
+		fill: url(#Layer_0_pattern);
+	}
+	.Layer_0 {
+		position: absolute;
+		overflow: visible;
+		width: 400px;
+		height: 340px;
+		left: 148px;
+		top: 613px;
+	}

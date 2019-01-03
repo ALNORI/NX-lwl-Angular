@@ -7,5 +7,27 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "dashboard": {
+      "tags": []
+    },
+    "dashboard-e2e": {
+      "tags": []
+    },
+    "ica": {
+      "tags": []
+    },
+    "ica-e2e": {
+      "tags": []
+    },
+    "material": {
+      "tags": []
+    },
+    "material2": {
+      "tags": []
+    },
+    "prime-ng": {
+      "tags": []
+    }
+  }
 }
